@@ -5,7 +5,7 @@ return kilogram;
 }
 
 function convertInchesintoCentimetres(inches){
-   centimetres = inches / 2,54
+   centimetres = inches * 2,54
 
    return centimetres
 }
